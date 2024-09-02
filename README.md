@@ -19,3 +19,11 @@ You can install the required packages using pip:
 
 ```bash
 pip install numpy sympy matplotlib plotly ipython
+```
+
+## Star the Repository
+
+If you find this project useful or interesting, please consider starring the repository on GitHub!
+
+[![Star this repository](https://img.shields.io/github/stars/bsshreesha/Gradient_descent.svg?style=social)](https://github.com/bsshreesha/Gradient_descent/)
+
